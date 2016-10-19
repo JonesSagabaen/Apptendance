@@ -8,7 +8,7 @@ Organize lists of multiple attendance containers.  This is useful for situations
 
 ![Alt text](/Screenshots/AttendanceList.png?raw=true "List of all attendance containers")
 
-Edit each attendance container by adding or removing members using the Edit button.  Mark attendance of a member by selecting the associate checkbox.  After the attendance record is done, clear them all at once using the *Uncheck Group* option.
+Edit each attendance container by adding or removing members using the *edit* button.  Mark attendance of a member by selecting the associate checkbox.  After the attendance record is done, clear them all at once using the *Uncheck Group* option.
 
 ![Alt text](/Screenshots/AttendanceRecord.png?raw=true "Inside an attendance container")
 
