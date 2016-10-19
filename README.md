@@ -2,19 +2,13 @@ Apptendance is an attendance tracking iOS app written in Objective-C.  The featu
 
 Features:
 Organize lists of multiple attendance containers.
-![alt text][screenshot01]
+![Alt text](/Screenshots/AttendanceList.png?raw=true "Optional Title")
 
 Edit each attendance container by adding or removing members.  After the attendance record is done, clear them all at once.
-![alt text][screenshot02]
+![Alt text](/Screenshots/AttendanceRecord.png?raw=true "Optional Title")
 
 Attendance records can also be saved for record keeping purposes.
-![alt text][screenshot03]
+![Alt text](/Screenshots/Saved.png?raw=true "Optional Title")
 
 ## Created by
 Jones Sagabaen
-
-
-
-[screenshot01]: https://raw.githubusercontent.com/JonesSagabaen/Apptendance/master/Screenshots/AttendanceList.png “Attendance containers”
-[screenshot02]: https://raw.githubusercontent.com/JonesSagabaen/Apptendance/master/Screenshots/AttendanceRecord.png “Attendance record”
-[screenshot03]: https://raw.githubusercontent.com/JonesSagabaen/Apptendance/master/Screenshots/Saved.png “Saved records”
